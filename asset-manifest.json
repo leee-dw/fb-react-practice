@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fb-react-practice/static/css/main.19393e92.chunk.css",
+    "main.js": "/fb-react-practice/static/js/main.9268d8bc.chunk.js",
+    "main.js.map": "/fb-react-practice/static/js/main.9268d8bc.chunk.js.map",
+    "runtime~main.js": "/fb-react-practice/static/js/runtime~main.eaaf9a68.js",
+    "runtime~main.js.map": "/fb-react-practice/static/js/runtime~main.eaaf9a68.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/fb-react-practice/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/fb-react-practice/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/fb-react-practice/index.html",
+    "precache-manifest.7f46ca0577c9b2ee6f89af1a7685b005.js": "/fb-react-practice/precache-manifest.7f46ca0577c9b2ee6f89af1a7685b005.js",
+    "service-worker.js": "/fb-react-practice/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/fb-react-practice/static/css/main.19393e92.chunk.css.map"
+  }
+}
